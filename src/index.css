@@ -1,8 +1,8 @@
 :root {
-     --primary: pink;
-     --secondary: #c71585 ;
-     --dark: #add8e6   ;
-     --light: #f0ffff;
+     --primary: #364156;
+     --secondary: #A26769 ;
+     --dark: #BC8DA7   ;
+     --light: #F7F2F3; 
 
 }
 
@@ -11,7 +11,7 @@
   padding:0;
   box-sizing: border-box;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  color:#008080;
+  color:#213030;
 }
 
 body{
@@ -45,8 +45,8 @@ body{
 }
 
 .display span {
-  font-size: 30px;
-  color: black;
+  font-size: 18px;
+  color: grey;
 }
 
 button {
@@ -61,8 +61,8 @@ button {
 }
 
 button:hover {
-  opacity: 0.9;
-  color: #c71585;
+  opacity: 0.96;
+  color: #960D2D;
 }
 
 .operators {
@@ -72,7 +72,7 @@ button:hover {
 .operators button {
   flex: 1 1 0%;
   background-color: var(--primary);
-  font-size: 700;
+  font-weight: 900;
 
 }
 
@@ -85,4 +85,14 @@ button:hover {
   flex: 1 1 33.333%;
   max-width: 33.333%;
   background-color: var(--dark);
+}
+
+.clear {
+  display: flex;
+}
+
+.clear button {
+  flex: 1 1 0%;
+  background-color: var(--primary);
+  font-weight:900;
 }
