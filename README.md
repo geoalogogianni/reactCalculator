@@ -1,2 +1,2 @@
 <img src="https://raw.githubusercontent.com/geoalogogianni/reactCalculator/master/screenshots/calc.png" width="665" height="812">
-<img src="https://raw.githubusercontent.com/geoalogogianni/reactCalculator/master/screenshots/calc2.png" width="612" height="757">
+<img src="https://raw.githubusercontent.com/geoalogogianni/reactCalculator/master/screenshots/cal2.png" width="612" height="757">
